@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: af075064-5d4b-3d59-a9b9-10404ec68fc9
 ---

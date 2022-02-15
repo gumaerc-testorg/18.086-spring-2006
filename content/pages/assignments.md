@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: aa04e362-d4b8-545d-b7f7-298e9910f5d9
 ---
@@ -106,11 +109,11 @@ In Section 6.5: Do problems 1-2, and 17.
 Homework 2
 {{< tdclose >}}
 {{< tdopen >}}
-In Section 6.5: Do problems 16 and 19. Find a stable difference method for ut = uxxx.  
+In Section 6.5: Do problems 16 and 19. Find a stable difference method for u{{< sub "t" >}} = u{{< sub "xxx" >}}.  
   
 In Section 6.6: Do problems 1, 2, 5, and 9.  
   
-Also, solve ut + uux = 0 to t = 4 with u(x,0) = 1 and 0, also 0 and 1, as discussed in class (Lax-Friedrichs method).
+Also, solve u{{< sub "t" >}} + uu{{< sub "x" >}} = 0 to t = 4 with u(x,0) = 1 and 0, also 0 and 1, as discussed in class (Lax-Friedrichs method).
 {{< tdclose >}}
 {{< tdopen >}}
 case1.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/case1.m))  
