@@ -34,15 +34,15 @@ Homework 1 ([PDF]({{< baseurl >}}/resources/hw1_086_s06))
 ([PDF]({{< baseurl >}}/resources/hw1_086_s06_sol))
 {{< tdclose >}}
 {{< tdopen >}}
-AB\_2.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/AB_2.m))  
+AB\_2.m ([M]({{< baseurl >}}/resources/ab_2))  
   
-HW1\_1.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/HW1_1.m))  
+HW1\_1.m ([M]({{< baseurl >}}/resources/hw1_1))  
   
-HW1\_2.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/HW1_2.m))  
+HW1\_2.m ([M]({{< baseurl >}}/resources/hw1_2))  
   
-RK\_2.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/RK_2.m))  
+RK\_2.m ([M]({{< baseurl >}}/resources/rk_2))  
   
-f\_is.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/f_is.m))
+f\_is.m ([M]({{< baseurl >}}/resources/f_is))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,13 +54,13 @@ Homework 2 ([PDF]({{< baseurl >}}/resources/hw2_086_s06))
 ([PDF]({{< baseurl >}}/resources/hw2_086_s06_sol))
 {{< tdclose >}}
 {{< tdopen >}}
-Set 1: cde.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/cde.m)), cdi.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/cdi.m))  
+Set 1: cde.m ([M]({{< baseurl >}}/resources/cde)), cdi.m ([M]({{< baseurl >}}/resources/cdi))  
   
-Set 2: schrodinger\_stable.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/schrodinger_stable.m)), schrodinger\_stable\_implicit.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/schrodinger_stable_implicit.m)), schrodinger\_unstable.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/schrodinger_unstable.m))  
+Set 2: schrodinger\_stable.m ([M]({{< baseurl >}}/resources/schrodinger_stable)), schrodinger\_stable\_implicit.m ([M]({{< baseurl >}}/resources/schrodinger_stable_implicit)), schrodinger\_unstable.m ([M]({{< baseurl >}}/resources/schrodinger_unstable))  
   
-Set 3: LF.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/LF.m)), LW.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/LW.m)), Leap\_frog.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/Leap_frog.m)), upwind.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/upwind.m))  
+Set 3: LF.m ([M]({{< baseurl >}}/resources/lf)), LW.m ([M]({{< baseurl >}}/resources/lw)), Leap\_frog.m ([M]({{< baseurl >}}/resources/leap_frog)), upwind.m ([M]({{< baseurl >}}/resources/upwind))  
   
-Set 4: nonlinear\_lw.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/nonlinear_lw.m)), nonlinear\_upwind.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/nonlinear_upwind.m))
+Set 4: nonlinear\_lw.m ([M]({{< baseurl >}}/resources/nonlinear_lw)), nonlinear\_upwind.m ([M]({{< baseurl >}}/resources/nonlinear_upwind))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,15 +116,15 @@ In Section 6.6: Do problems 1, 2, 5, and 9.
 Also, solve u{{< sub "t" >}} + uu{{< sub "x" >}} = 0 to t = 4 with u(x,0) = 1 and 0, also 0 and 1, as discussed in class (Lax-Friedrichs method).
 {{< tdclose >}}
 {{< tdopen >}}
-case1.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/case1.m))  
+case1.m ([M]({{< baseurl >}}/resources/case1))  
   
-case2.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/case2.m))  
+case2.m ([M]({{< baseurl >}}/resources/case2))  
   
-Lax\_friedrichs\_1.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/Lax_friedrichs_1.m))  
+Lax\_friedrichs\_1.m ([M]({{< baseurl >}}/resources/lax_friedrichs_1))  
   
-batch.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/batch.m))  
+batch.m ([M]({{< baseurl >}}/resources/batch))  
   
-simulation.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/simulation.m))
+simulation.m ([M]({{< baseurl >}}/resources/simulation))
 {{< tdclose >}}
 
 {{< trclose >}}

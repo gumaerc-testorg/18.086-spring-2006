@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: aa04e362-d4b8-545d-b7f7-298e9910f5d9
 resourcetype: Other
 title: vssver.scc
 uid: ce1b6a5f-7a05-17ff-17d5-cf28d3d3ddd8

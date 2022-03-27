@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e8d4537a-777e-740f-b4ba-a0c811d83c75
 resourcetype: Document
 title: project1domnguez.pdf
 uid: 4bfb14a3-06e4-cc0a-7f89-e0d719754fdb
