@@ -5,6 +5,7 @@ file: /media/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/d9
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: d98ea58b-7bc4-1c9c-1983-9c42d236b4db

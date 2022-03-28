@@ -5,6 +5,7 @@ file: /media/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/6f
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: 6f72f306-3389-a9b1-d098-d7a4e6699e80

@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: aa04e362-d4b8-545d-b7f7-298e9910f5d9
 ---
@@ -28,39 +29,39 @@ supporting files
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Homework 1 ([PDF]({{< baseurl >}}/resources/hw1_086_s06))
+Homework 1 ({{< resource_link 7055eb8e-c14e-963a-ecb3-48c8246578a8 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/hw1_086_s06_sol))
+({{< resource_link f8a71502-e979-e514-aeb6-1d61afb725c1 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-AB\_2.m ([M]({{< baseurl >}}/resources/ab_2))  
+AB\_2.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/AB_2.m))  
   
-HW1\_1.m ([M]({{< baseurl >}}/resources/hw1_1))  
+HW1\_1.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/HW1_1.m))  
   
-HW1\_2.m ([M]({{< baseurl >}}/resources/hw1_2))  
+HW1\_2.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/HW1_2.m))  
   
-RK\_2.m ([M]({{< baseurl >}}/resources/rk_2))  
+RK\_2.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/RK_2.m))  
   
-f\_is.m ([M]({{< baseurl >}}/resources/f_is))
+f\_is.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/f_is.m))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Homework 2 ([PDF]({{< baseurl >}}/resources/hw2_086_s06))
+Homework 2 ({{< resource_link e37c5125-5b3b-9cf0-d72e-6939292b7588 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/hw2_086_s06_sol))
+({{< resource_link e99acea6-bf0e-1162-e75b-82e1f6ab51f7 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-Set 1: cde.m ([M]({{< baseurl >}}/resources/cde)), cdi.m ([M]({{< baseurl >}}/resources/cdi))  
+Set 1: cde.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/cde.m)), cdi.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/cdi.m))  
   
-Set 2: schrodinger\_stable.m ([M]({{< baseurl >}}/resources/schrodinger_stable)), schrodinger\_stable\_implicit.m ([M]({{< baseurl >}}/resources/schrodinger_stable_implicit)), schrodinger\_unstable.m ([M]({{< baseurl >}}/resources/schrodinger_unstable))  
+Set 2: schrodinger\_stable.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/schrodinger_stable.m)), schrodinger\_stable\_implicit.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/schrodinger_stable_implicit.m)), schrodinger\_unstable.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/schrodinger_unstable.m))  
   
-Set 3: LF.m ([M]({{< baseurl >}}/resources/lf)), LW.m ([M]({{< baseurl >}}/resources/lw)), Leap\_frog.m ([M]({{< baseurl >}}/resources/leap_frog)), upwind.m ([M]({{< baseurl >}}/resources/upwind))  
+Set 3: LF.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/LF.m)), LW.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/LW.m)), Leap\_frog.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/Leap_frog.m)), upwind.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/upwind.m))  
   
-Set 4: nonlinear\_lw.m ([M]({{< baseurl >}}/resources/nonlinear_lw)), nonlinear\_upwind.m ([M]({{< baseurl >}}/resources/nonlinear_upwind))
+Set 4: nonlinear\_lw.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/nonlinear_lw.m)), nonlinear\_upwind.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/nonlinear_upwind.m))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,15 +117,15 @@ In Section 6.6: Do problems 1, 2, 5, and 9.
 Also, solve u{{< sub "t" >}} + uu{{< sub "x" >}} = 0 to t = 4 with u(x,0) = 1 and 0, also 0 and 1, as discussed in class (Lax-Friedrichs method).
 {{< tdclose >}}
 {{< tdopen >}}
-case1.m ([M]({{< baseurl >}}/resources/case1))  
+case1.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/case1.m))  
   
-case2.m ([M]({{< baseurl >}}/resources/case2))  
+case2.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/case2.m))  
   
-Lax\_friedrichs\_1.m ([M]({{< baseurl >}}/resources/lax_friedrichs_1))  
+Lax\_friedrichs\_1.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/Lax_friedrichs_1.m))  
   
-batch.m ([M]({{< baseurl >}}/resources/batch))  
+batch.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/batch.m))  
   
-simulation.m ([M]({{< baseurl >}}/resources/simulation))
+simulation.m ([M](/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/assignments/simulation.m))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,9 +134,9 @@ simulation.m ([M]({{< baseurl >}}/resources/simulation))
 Homework 3
 {{< tdclose >}}
 {{< tdopen >}}
-Read text pages 403-411, and also section 3.6 of the "new book". ([PDF]({{< baseurl >}}/resources/am36))  
+Read text pages 403-411, and also section 3.6 of the "new book". ({{< resource_link cb76484c-6f16-37c4-ae20-5b66064c28c8 "PDF" >}})  
   
-Answer and turn in problems 1, 2, and 3 in that section 3.6 plus develop the following code. ([PDF]({{< baseurl >}}/resources/homework3))
+Answer and turn in problems 1, 2, and 3 in that section 3.6 plus develop the following code. ({{< resource_link 9777b6dd-d5c7-8188-2111-9f8e575d48f7 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
