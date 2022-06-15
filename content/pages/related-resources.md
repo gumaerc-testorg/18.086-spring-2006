@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section includes Prof. Professor Strang's related courses on OCW,
+  related textbooks, notes, and videos.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Related Resources
 uid: aa8024c5-db31-abf4-7e23-0a0140a1d96a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Professor Strang's Related Courses on OCW
@@ -31,7 +36,7 @@ Strang, Gilbert. _Linear Algebra for Everyone._ 2020. [Wellesley-Cambridge Pres
 
 Strang, Gilbert. _Differential Equations and Linear Algebra_. 2014. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/).ISBN: 9780980232790.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_ZoomNotes for Linear Algebra_ (PDF)](/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/resources/zoomnotes_18-010). Professor Strang created these notes in 2020 and 2021 when many MIT classes were moved online (using Zoom) due to the [COVID-19 Pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic). He hopes that faculty who are planning a linear algebra course and students who are reading for themselves will see these notes.
+[_ZoomNotes for Linear Algebra_ (PDF)](/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/resources/zoomnotes_18-010). Professor Strang created these notes in 2020 and 2021 when many MIT classes were moved online (using Zoom) due to the [COVID-19 Pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic). He hopes that faculty who are planning a linear algebra course and students who are reading for themselves will see these notes.
 
 Guest speaker at the weekly OLSUME (Online Seminar on Undergraduate Mathematics Education) on the topic [_Linear Algebra and Deep Learning_ (MP4)](https://olsume.org/wp-content/uploads/2021/09/strang.mp4)
 
