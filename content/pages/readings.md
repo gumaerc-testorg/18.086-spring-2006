@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: The readings section provides information on textbooks, and supplementary
+  readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 41d02214-ba8c-5a98-825c-8bbb215605f4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Textbooks
@@ -15,35 +24,35 @@ Strang, Gilbert. _Introduction to Applied Mathematics._ Wellesley, MA: [Wellesle
 
 Draft versions of chapters relevant to this course are available below.
 
-Section 3.5 - Finite Differences and Fast Poisson Solvers ([PDF]({{< baseurl >}}/resources/am35))
+Section 3.5 - Finite Differences and Fast Poisson Solvers ({{% resource_link 5f469576-670a-2c7a-8749-99dbafc8c3cb "PDF" %}})
 
-Section 5.1- Finite Difference Methods ([PDF]({{< baseurl >}}/resources/am51))
+Section 5.1- Finite Difference Methods ({{% resource_link e548f1cb-5f6c-6bc9-a5c9-0ee5180a3b91 "PDF" %}})
 
-Section 5.2 - Accuracy and Stability for $u\_t= cu\_x$ ([PDF]({{< baseurl >}}/resources/am52))
+Section 5.2 - Accuracy and Stability for $u\_t= cu\_x$ ({{% resource_link 307c9b34-baca-5b28-1add-586a56de5756 "PDF" %}})
 
-Section 5.3 - The Wave Equation and Staggered Leapfrog ([PDF]({{< baseurl >}}/resources/am53))
+Section 5.3 - The Wave Equation and Staggered Leapfrog ({{% resource_link 8eaa2336-7474-c809-cc08-16f24fdacc7f "PDF" %}})
 
-Section 5.4 - The Heat Equation and Convection-Diffusion ([PDF]({{< baseurl >}}/resources/am54))
+Section 5.4 - The Heat Equation and Convection-Diffusion ({{% resource_link 5db29e69-494e-b09a-26f7-224d43adc6f6 "PDF" %}})
 
-Section 5.5 - Difference Matrices and Eigenvalues ([PDF]({{< baseurl >}}/resources/am55))
+Section 5.5 - Difference Matrices and Eigenvalues ({{% resource_link 1d170d72-359b-7d27-052c-960197b425e5 "PDF" %}})
 
-Section 5.6 - Nonlinear Flow and Conservation Laws ([PDF]({{< baseurl >}}/resources/am56))
+Section 5.6 - Nonlinear Flow and Conservation Laws ({{% resource_link 3762c803-fd3f-27bc-c47c-c76341162824 "PDF" %}})
 
-Section 5.7 - Level Sets and the Fast Marching Method ([PDF]({{< baseurl >}}/resources/am57))
+Section 5.7 - Level Sets and the Fast Marching Method ({{% resource_link 49baea85-bf92-b8bd-0c73-c9a313fd3f33 "PDF" %}})
 
-Section 6.1 - Elimination with Reordering ([PDF]({{< baseurl >}}/resources/am61))
+Section 6.1 - Elimination with Reordering ({{% resource_link f3cd6133-88ef-b614-313f-c345768d3564 "PDF" %}})
 
-Section 6.2 - Iterative Methods ([PDF]({{< baseurl >}}/resources/am62))
+Section 6.2 - Iterative Methods ({{% resource_link 4bea2ab7-b0fa-37cd-96f2-ce442efa769d "PDF" %}})
 
-Section 6.3 - Multigrid Methods ([PDF]({{< baseurl >}}/resources/am63))
+Section 6.3 - Multigrid Methods ({{% resource_link c4a6bca7-8524-cb0d-0678-e0a0030f75e5 "PDF" %}})
 
-Section 6.4 - Krylov Subspaces and Conjugate Gradients ([PDF]({{< baseurl >}}/resources/am64))
+Section 6.4 - Krylov Subspaces and Conjugate Gradients ({{% resource_link 41750e11-0218-42bc-9726-70e46cc949cc "PDF" %}})
 
-Section 6.5 - The Saddle Point Stokes Problem ([PDF]({{< baseurl >}}/resources/am65))
+Section 6.5 - The Saddle Point Stokes Problem ({{% resource_link 3c37476b-f180-4426-43b0-9a8aa563e7e3 "PDF" %}})
 
-Section 7.1 - One Fundamental Example ([PDF]({{< baseurl >}}/resources/am71))
+Section 7.1 - One Fundamental Example ({{% resource_link 2e0d907d-4b47-0bb0-5ce3-6f67909d74d5 "PDF" %}})
 
-Section 7.2 - Calculus of Variations ([PDF]({{< baseurl >}}/resources/am72))
+Section 7.2 - Calculus of Variations ({{% resource_link e94c0594-7ed0-36cd-6ad0-150102087062 "PDF" %}})
 
 Supplementary Readings
 ----------------------

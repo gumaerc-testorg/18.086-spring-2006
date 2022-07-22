@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: The projects section provides information on the project for the course
+  and two sample projects by students.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: e8d4537a-777e-740f-b4ba-a0c811d83c75
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Project Overview
@@ -53,15 +62,15 @@ Sample Project from 2006
 
 This sample project is courtesy of Jose A. Dominguez-Caballero, a student in the class, and is used with permission.
 
-Experimental Analysis of the Two Dimensional Laplacian Matrix (K2D): Applications and Reordering Algorithms ([PDF - 1.3 MB]({{< baseurl >}}/resources/project1domnguez))
+Experimental Analysis of the Two Dimensional Laplacian Matrix (K2D): Applications and Reordering Algorithms ({{% resource_link 4bfb14a3-06e4-cc0a-7f89-e0d719754fdb "PDF - 1.3 MB" %}})
 
 Sample Project from 2005
 ------------------------
 
 This sample project is courtesy of Joseph Kovac, a student in the class, and is used with permission. The project implements a 2D multigrid solver for Laplace's and Poisson's equation.
 
-Overview of Multi-grid Project ([PDF]({{< baseurl >}}/resources/overview))
+Overview of Multi-grid Project ({{% resource_link 4cd6d258-1221-4df9-a288-3e6a96ab3229 "PDF" %}})
 
-Project File: The Fundamentals and Advantages of Multigrid Techniques ([PDF]({{< baseurl >}}/resources/josephkovacpro))
+Project File: The Fundamentals and Advantages of Multigrid Techniques ({{% resource_link 12c176f3-c3db-7c3d-8f72-c9dcad3e9390 "PDF" %}})
 
-Matlab\_Files\_for\_Project.zip ([ZIP]({{< baseurl >}}/resources/matlab_files_for_project)) (The ZIP file contains: 10 .m files.)
+Matlab\_Files\_for\_Project.zip ({{% resource_link 56405b40-af21-7abe-9137-132097f5734b "ZIP" %}}) (The ZIP file contains: 10 .m files.)
