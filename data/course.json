@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Science and Engineering"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "legacy_uid": "0da6afbf-6265-4fc9-f940-10aa2528ca28",
+  "instructors": {
+    "content": [
+      "84b06ab4-b3e7-63cc-f537-5507e60fa961"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fc63428c-c870-9984-5fc5-4fbf63770e86",
+    "website": "18-086-mathematical-methods-for-engineers-ii-spring-2006"
+  },
+  "course_title": "Mathematical Methods for Engineers II",
+  "course_description": "This graduate-level course is a continuation of Mathematical Methods for Engineers I (18.085). Topics include numerical methods; initial-value problems; network flows; and optimization.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.086",
+  "course_image_thumbnail": {
+    "content": "91adf125-8dca-9cc1-cf47-d711c832bd86",
+    "website": "18-086-mathematical-methods-for-engineers-ii-spring-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Projects with Examples",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "3e96a95b-bad5-4348-ab12-84ddd4a1eb4e",
+  "title": "Course Metadata"
+}
