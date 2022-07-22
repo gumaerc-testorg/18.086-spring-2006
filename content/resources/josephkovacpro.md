@@ -8,6 +8,7 @@ file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/12c176f3
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
 ---
 This file is a project by a student which includes the following topics:
 Basic theory of the Jacobi Relaxation method, basic theory of Multi-grid, implementing a Multi-grid solver ? 1D, and implementing a Multi-grid solver ? 2D.
-

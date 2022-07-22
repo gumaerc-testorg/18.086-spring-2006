@@ -5,6 +5,7 @@ file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/ce1b6a5f
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

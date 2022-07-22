@@ -6,6 +6,7 @@ file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/8675473e
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This file is a supporting file for the homework assignment 2 for the course.
-

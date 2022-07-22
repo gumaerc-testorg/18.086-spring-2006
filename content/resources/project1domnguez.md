@@ -8,6 +8,7 @@ file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/4bfb14a3
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource discusses application of the laplacian matrix in digital image processing, the K2D matrix, reordering algorithms, minimum degree algorithm ,red-black ordering algorithm, graph separators algorithm and nested dissection, references and appendices.
-

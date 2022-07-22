@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/a6b808a6c49890f231d7a8c109029488_nlO9ci0kPLg.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
