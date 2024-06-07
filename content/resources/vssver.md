@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/ce1b6a5f7a0517ff17d5cf28d3d3ddd8_vssver.scc
+file_size: 352
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
