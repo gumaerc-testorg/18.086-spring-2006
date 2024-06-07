@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/21945b85e0cf51cefe7f73145cffd84a_NEsObJTwDXI.pdf
+file_size: 56742
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

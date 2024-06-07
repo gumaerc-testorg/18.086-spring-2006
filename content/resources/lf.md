@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for Homework 2 assignment.
 file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/22a9bd36a8bc98735984c94a65e2af4e_LF.m
+file_size: 845
 file_type: text/plain
 learning_resource_types:
 - Assignments
