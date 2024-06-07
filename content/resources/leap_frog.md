@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for Homework assignment 2.
 file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/ba16b9e4d3579896cd25df7755290635_Leap_frog.m
+file_size: 856
 file_type: text/plain
 learning_resource_types:
 - Assignments
