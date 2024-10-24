@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/f48711ff4221522c85497e19b03c6eb4_LtNVodIs1dI.vtt
+file: /ol-ocw-studio-app/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/f48711ff4221522c85497e19b03c6eb4_LtNVodIs1dI.vtt
 file_size: 50302
 file_type: application/x-subrip
 learning_resource_types: []
