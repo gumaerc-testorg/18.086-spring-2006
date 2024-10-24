@@ -2,6 +2,7 @@
 content_type: page
 description: The study material section discusses about papers, matlab documentation
   and other thoughts.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -11,16 +12,13 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
-Papers
-------
+## Papers
 
 Chan, Tony, and Henk A. Van der Vorst. "[Approximate and Incomplete Factorizations](https://doi.org/10.1007/978-94-011-5412-3_6)."
 
-Benzi, M., G. H. Golub, and J. Liesen. "Numerical Solution of Saddle Point Problems." _Acta Numerica_ 14 (2005): 1-137. (To appear.) ([PDF - 1.0 MB](http://www.mathcs.emory.edu/~benzi/Web_papers/bgl05.pdf))
+Benzi, M., G. H. Golub, and J. Liesen. "[Numerical Solution of Saddle Point Problems](https://www.cambridge.org/core/journals/acta-numerica/article/abs/numerical-solution-of-saddle-point-problems/2596C5D03B23AF89FE5A756891029B12)." *Acta Numerica* 14 (2005): 1-137. 
 
-MATLAB® Documentation
----------------------
+## MATLAB® Documentation
 
 [MATLAB® Technical Documentation](http://www.mathworks.com/access/helpdesk/help/techdoc/matlab.shtml)
 
@@ -28,24 +26,23 @@ MATLAB® Documentation
 
 [MATLAB® Mathematics Documentation](https://www.mathworks.com/help/matlab/)
 
-Other Thoughts
---------------
+## Other Thoughts
 
 Is there a simple way to count the fill-in in elimination?
 
 Run chol (or lu) and use "nnz" (number of non-zeros)
 
-% Generate discrete Laplacian operator  
-A=delsq(numgrid('S',100));  
-% Cholesky factorize  
-R=chol(A);  
-nnz(R)  
-ans = 941289  
-  
-% As above, but permute rows & columns by approximate minimum degree  
-p=symamd(A);  
-R=chol(A(p,p));  
-nnz(R)  
+% Generate discrete Laplacian operator   
+A=delsq(numgrid('S',100));   
+% Cholesky factorize   
+R=chol(A);   
+nnz(R)   
+ans = 941289
+
+% As above, but permute rows & columns by approximate minimum degree   
+p=symamd(A);   
+R=chol(A(p,p));   
+nnz(R)   
 ans = 184917
 
 Does min degree just take nodes a row at a time (if it breaks ties correctly)? If that is N^3 - and would sparse backslash do it?
