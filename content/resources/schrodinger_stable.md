@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for Homework assignment 1.
-file: /ol-ocw-studio-app/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/cb7209016167feef50589b49153e3857_schrodinger_stable.m
+file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/cb7209016167feef50589b49153e3857_schrodinger_stable.m
 file_size: 733
 file_type: text/plain
 learning_resource_types:
