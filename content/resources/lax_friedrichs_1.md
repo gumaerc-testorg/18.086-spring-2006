@@ -2,7 +2,7 @@
 content_type: resource
 description: This file is a supporting file for the homework assignment 2 for the
   course.
-file: /ol-ocw-studio-app/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/8675473e208546dd96508ca9a3542b8b_Lax_friedrichs_1.m
+file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/8675473e208546dd96508ca9a3542b8b_Lax_friedrichs_1.m
 file_size: 2288
 file_type: text/plain
 learning_resource_types:
