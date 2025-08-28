@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for Homework assignment 2.
-file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/46bac0923cfa14c3beac0b1e0505f93a_cde.m
+file: /ol-ocw-studio-app/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/46bac0923cfa14c3beac0b1e0505f93a_cde.m
 file_size: 680
 file_type: text/plain
 learning_resource_types:

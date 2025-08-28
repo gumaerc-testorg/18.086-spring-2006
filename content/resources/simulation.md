@@ -2,7 +2,7 @@
 content_type: resource
 description: This file is a supporting file for the homework assignment 2 for the
   course.
-file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/297e32c20aa4f72bb5d3fa86ccdee845_simulation.m
+file: /ol-ocw-studio-app/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/297e32c20aa4f72bb5d3fa86ccdee845_simulation.m
 file_size: 742
 file_type: text/plain
 learning_resource_types:
