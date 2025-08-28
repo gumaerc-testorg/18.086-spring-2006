@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file includes ten matlab file used in the sample student project.
-file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/56405b40af217abe9137132097f5734b_Matlab_Files_for_Project.zip
+file: /ol-ocw-studio-app/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/56405b40af217abe9137132097f5734b_Matlab_Files_for_Project.zip
 file_size: 7233
 file_type: application/zip
 learning_resource_types:
