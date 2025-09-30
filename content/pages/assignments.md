@@ -78,7 +78,7 @@ Assignments from Spring 2005
 
 There will be occasional homework assignments to give experience with the ideas and numerical methods and software that are discussed in class. Homework is assigned in the course textbook:
 
-Strang, Gilbert. _Introduction to Applied Mathematics_. Wellesley, MA: [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 1986. ISBN: 0961408804.
+Strang, Gilbert. _Introduction to Applied Mathematics_. Wellesley, MA: {{% resource_link "221cf487-2a65-4e58-b541-afa6963b6dd5" "Wellesley-Cambridge Press" %}}, 1986. ISBN: 0961408804.
 
 {{< tableopen >}}
 {{< theadopen >}}
